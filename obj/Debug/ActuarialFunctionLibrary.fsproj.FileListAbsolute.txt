@@ -1,0 +1,6 @@
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\ActuarialFunctionLibrary\ActuarialFunctionLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\ActuarialFunctionLibrary\ActuarialFunctionLibrary\bin\Debug\ActuarialFunctionLibrary.XML
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\ActuarialFunctionLibrary\ActuarialFunctionLibrary\bin\Debug\ActuarialFunctionLibrary.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\ActuarialFunctionLibrary\ActuarialFunctionLibrary\bin\Debug\ActuarialFunctionLibrary.pdb
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\ActuarialFunctionLibrary\ActuarialFunctionLibrary\obj\Debug\ActuarialFunctionLibrary.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\ActuarialFunctionLibrary\ActuarialFunctionLibrary\obj\Debug\ActuarialFunctionLibrary.pdb
