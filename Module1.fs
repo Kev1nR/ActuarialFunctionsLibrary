@@ -233,3 +233,7 @@ module ActuarialFunctionsLibrary =
          
                 return (asl)
             }
+        
+        let annuityCertain = defaultAgeVector {
+                return (fun age -> 1.0)
+            }
