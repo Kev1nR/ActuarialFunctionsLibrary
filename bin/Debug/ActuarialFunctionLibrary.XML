@@ -5,6 +5,24 @@
 <member name="">
 
 </member>
+<member name="T:ActuarialFunctionLibrary.ActuarialFunction">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:ActuarialFunctionLibrary.Utility">
+
+</member>
 <member name="">
 
 </member>
@@ -146,52 +164,7 @@
 <member name="">
 
 </member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="T:FSharp.Samples.ActuarialFunctionsLibrary.SomeTests">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="T:FSharp.Samples.ActuarialFunctionsLibrary.AgeVectorFunctions">
-
-</member>
-<member name="T:FSharp.Samples.ActuarialFunctionsLibrary">
+<member name="T:ActuarialFunctionLibrary.AgeVector">
 
 </member>
 </members>
